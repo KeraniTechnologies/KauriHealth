@@ -62,5 +62,5 @@ Resources:
 4) Discovery Paths https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources
 
 Python Scripts:
-
-Build Plugin ERSI 
+Create instructional Notebooks 
+Build Plugin for ESRI? 
