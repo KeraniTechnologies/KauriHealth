@@ -6,9 +6,9 @@ The python notebooks are located in the "Notebook" folder, while the data sets a
 
 
 
- LiDAR data is available from: https://myvuwac-my.sharepoint.com/:u:/g/personal/lesterkerr_myvuw_ac_nz/EXymPkPEe9BCrnH71n80GYkB_CoTdf9m-UwqxUs2aNcYNg?e=VUKBAJ
+ [LiDAR data](https://myvuwac-my.sharepoint.com/:u:/g/personal/lesterkerr_myvuw_ac_nz/EXymPkPEe9BCrnH71n80GYkB_CoTdf9m-UwqxUs2aNcYNg?e=VUKBAJ)
  
- Satellite data: https://myvuwac-my.sharepoint.com/:f:/g/personal/lesterkerr_myvuw_ac_nz/EkTSzaaohuVHlaYjgjJFy-EB5KT6wbLNZZc5XKlLpk5XRA?e=6XcaDc
+ [Satellite data](https://myvuwac-my.sharepoint.com/:f:/g/personal/lesterkerr_myvuw_ac_nz/EkTSzaaohuVHlaYjgjJFy-EB5KT6wbLNZZc5XKlLpk5XRA?e=6XcaDc)
 
 Tasks	
 
