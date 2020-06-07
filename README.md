@@ -3,7 +3,10 @@ VEGETATION CLASSIFICATION USING REMOTE SENSING TECHNIQUES
 
 The purpose of these scripts is to identify kauri die-back and how kauri vegetation health has changed over time in the Waitakere Ranges, New Zealand using remotely sensed image data from Landsat-8, Sentinel-2, RapidEye satellites and LiDAR. 
 
- LiDAR data is available from here: https://myvuwac-my.sharepoint.com/:u:/g/personal/lesterkerr_myvuw_ac_nz/EXymPkPEe9BCrnH71n80GYkB_CoTdf9m-UwqxUs2aNcYNg?e=VUKBAJ
+
+
+ LiDAR data is available from 
+<a href=https://myvuwac-my.sharepoint.com/:u:/g/personal/lesterkerr_myvuw_ac_nz/EXymPkPEe9BCrnH71n80GYkB_CoTdf9m-UwqxUs2aNcYNg?e=VUKBAJ
  
  Satellite data: https://myvuwac-my.sharepoint.com/:f:/g/personal/lesterkerr_myvuw_ac_nz/EkTSzaaohuVHlaYjgjJFy-EB5KT6wbLNZZc5XKlLpk5XRA?e=6XcaDc
 
