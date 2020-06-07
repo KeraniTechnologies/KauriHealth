@@ -13,8 +13,10 @@ The python notebooks are located in the "Notebook" folder, while the data sets a
 Tasks	
 
 ·	   Mosaicking of lidar raster tiles
+
 .    Create tree canopy height model from open source LiDAR
-·	   Acquire multispectral satellite data of the region
+
+.    Acquire multispectral satellite data of the region
 
 Ongoing To Do list:
      
