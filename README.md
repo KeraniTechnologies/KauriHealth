@@ -2,7 +2,7 @@
 VEGETATION CLASSIFICATION USING REMOTE SENSING TECHNIQUES
 
 The purpose of these python notebooks is to build a series a library of tasks to identify how the spread of kauri die-back has changed over time in the Waitakere Ranges, New Zealand using remotely sensed image data from satellites and LiDAR. 
-The python notebooks are located in the "Notebook" folder, while the data sets are linked below
+The python notebooks are located in the [Notebook folder click here](https://github.com/KeraniTechnologies/KauriHealth/tree/master/Notebooks), while the LiDAR and satellite data sets are linked below
 
 
 
