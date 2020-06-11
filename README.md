@@ -12,11 +12,11 @@ The python notebooks are located in the [Notebook folder click here](https://git
 
 Jupyter Notebook Tasks	
 
-·	   Mosaicking of lidar raster tiles
+·	   Mosaicking of LiDAR raster tiles
 
 .    Create tree canopy height model from open source LiDAR
 
-.    Acquire multispectral satellite data of the region
+.    Acquire multispectral satellite data of the region and create vegetation indices models
 
 Ongoing To Do list:
      
