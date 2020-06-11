@@ -1,7 +1,7 @@
 # KauriHealth
 VEGETATION CLASSIFICATION USING REMOTE SENSING TECHNIQUES
 
-The purpose of these python notebooks is to identify kauri die-back and how kauri vegetation health has changed over time in the Waitakere Ranges, New Zealand using remotely sensed image data from RapidEye satellites and LiDAR. 
+The purpose of these python notebooks is to build a series a library of tasks to identify how the spread of kauri die-back has changed over time in the Waitakere Ranges, New Zealand using remotely sensed image data from satellites and LiDAR. 
 The python notebooks are located in the "Notebook" folder, while the data sets are linked below
 
 
@@ -10,7 +10,7 @@ The python notebooks are located in the "Notebook" folder, while the data sets a
  
  [Satellite data](https://myvuwac-my.sharepoint.com/:f:/g/personal/lesterkerr_myvuw_ac_nz/EkTSzaaohuVHlaYjgjJFy-EB5KT6wbLNZZc5XKlLpk5XRA?e=6XcaDc)
 
-Tasks	
+Jupyter Notebook Tasks	
 
 ·	   Mosaicking of lidar raster tiles
 
@@ -20,11 +20,11 @@ Tasks
 
 Ongoing To Do list:
      
-.    Identify kauri trees and how vegetation health has changed over time in the Waitakere Ranges
+.    Identify kauri trees
 
-·	   Using each identified kauri tree canopy extent/spectral_classification/ and location, associate various vegetation indices
+·	   Using each identified kauri tree canopy extent/spectral_classification/ and location, associate vegetation indices
 
-·	   Analyze create maps, frequency and density plots highlighting the differences between years, months and vegetation indices
+·	   Analysis: create maps, frequency and density plots highlighting the differences between time of year and vegetation indices
 
 ·	   Create plots of the spectral profile differences of the Kauri health between health category ranges
 
