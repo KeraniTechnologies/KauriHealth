@@ -1,7 +1,7 @@
 # KauriHealth
 VEGETATION CLASSIFICATION USING REMOTE SENSING TECHNIQUES
 
-The purpose of these scripts is to identify kauri die-back and how kauri vegetation health has changed over time in the Waitakere Ranges, New Zealand using remotely sensed image data from RapidEye satellites and LiDAR. 
+The purpose of these python notebooks is to identify kauri die-back and how kauri vegetation health has changed over time in the Waitakere Ranges, New Zealand using remotely sensed image data from RapidEye satellites and LiDAR. 
 The python notebooks are located in the "Notebook" folder, while the data sets are linked below
 
 
